@@ -1,1 +1,2 @@
 # Covid-19
+Coronavirus disease (COVID-19) is a contagious infection caused by a newly discovered coronavirus. The majority of patients infected with the COVID-19 virus will develop mild to moderate respiratory illness and will recover without the need for specific treatment. People over the age of 65, as well as those with underlying medical conditions such as cardiovascular disease, diabetes, chronic respiratory disease, and cancer, are more likely to acquire serious illnesses. (WHO)
